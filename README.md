@@ -6,22 +6,22 @@
   2. Ryan Matthews, Te-Taniwha
   3. Juan Carlos Herrera, jcherrera
 
-**  Title: **  Best Beer
+**Title:**  Best Beer
 
-** Descripton:** 
+**Descripton:** 
   The software will take multiple data values from different websites about the composition of different types of beers and calculate the average creating the 'best' ratio for the desired beer type.
   
-** Vision Statement:** 
+**Vision Statement:** 
  *"The perfect beer for you"*
 
-** Motivation:** 
+**Motivation:** 
   We want good beer
   
-** Risks:** 
+**Risks:** 
   No experience with java script
   No prior experience working with the group members
 
-** Migitation strategy for risks: ** 
+**Migitation strategy for risks:** 
   Learn java script
   Communicate with team members
   
