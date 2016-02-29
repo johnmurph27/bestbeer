@@ -51,8 +51,8 @@
   [Trello](https://trello.com/3308project)
   
 **Project Plan:**
-  Step 1: Create data retrieval software
-  Step 2: Create analyzing software
-  Step 3: Create software to compute data
-  Step 4: Create webpage to display data
-  Step 5: Make the webpage user input friendly
+  *Step 1: Create data retrieval software
+  *Step 2: Create analyzing software
+  *Step 3: Create software to compute data
+  *Step 4: Create webpage to display data
+  *Step 5: Make the webpage user input friendly
