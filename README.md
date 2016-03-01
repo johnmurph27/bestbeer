@@ -47,6 +47,7 @@
 
 **Methodology:**
   Agile Process
+  
 **Project Tracking Software:**
   [Trello](https://trello.com/3308project)
   
