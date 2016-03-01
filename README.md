@@ -46,7 +46,7 @@
 | 5 | As a programmer, I want to calculate the 'best' beer in 100 ms so that the my impatient users are satisfied (8) |  |  |  |
 
 **Methodology:**
-  Waterfall
+  Agile Process
 **Project Tracking Software:**
   [Trello](https://trello.com/3308project)
   
