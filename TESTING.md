@@ -25,7 +25,7 @@ Automated Tests: Testing scraper and MySQL Database
 
 ### Test 2 - MySQL
 * To test our MySQL database we used a [mysqltest](https://dev.mysql.com/doc/mysqltest/2.0/en/mysqltest.html). We used a simple sample test case (test_mysql in our home directory) in order to check the integrity of our MySQL data. We are using this just to test if MySQL is working properly on our server.
-* ![MySQL Test Screenshot](mysql-test-results.png)
+* ![MySQL Test Screenshot](mysql-test-results.png?raw=true)
 
 
 User Acceptance Tests: Copy of at least three UAT plans
