@@ -30,6 +30,6 @@ Automated Tests: Testing scraper and MySQL Database
 
 User Acceptance Tests: Copy of at least three UAT plans
 -----------
-* ![User Test Case: 1](user1.png?raw=true)
-* ![User Test Case: 2](user2.png?raw=true)
-* ![User Test Case: 3](user3.png?raw=true)
+* ![User Test Case: 1](1.png?raw=true)
+* ![User Test Case: 2](2.png?raw=true)
+* ![User Test Case: 3](3.png?raw=true)

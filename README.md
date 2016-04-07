@@ -9,6 +9,7 @@
   5. Charlie Luckhart, [chuckluck44](https://www.github.com/chuckluck44) 
 
 **Title:**  Best Beer
+* ![Better Beer Logo](Drawing.png?raw=true)
 
 **Descripton:** 
   The software will take multiple data values from different websites about the composition of different types of beers and calculate the average creating the 'best' ratio for the desired beer type.
