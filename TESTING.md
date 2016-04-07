@@ -18,7 +18,7 @@ Vision: from Project Part 1 Proposal
 * Vision Statement: "The perfect beer for you"
 * Motivation: We want good beer
 
-Automated Tests: Explanation and screenshot (see above)
+Automated Tests: 
 -----------
 
 User Acceptance Tests: Copy of at least three UAT plans
