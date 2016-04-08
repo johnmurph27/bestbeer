@@ -1,4 +1,4 @@
-# Best Beer
+# Better Beer
 ## 3308-Team-Project
 
 **Team members:**
@@ -8,7 +8,7 @@
   4. John Murphy, [Johnmurph27](https://www.github.com/Johnmurph27)
   5. Charlie Luckhart, [chuckluck44](https://www.github.com/chuckluck44) 
 
-**Title:**  Best Beer
+**Title:**  Better Beer
  ![Better Beer Logo](Drawing.png?raw=true)
 
 **Descripton:** 
