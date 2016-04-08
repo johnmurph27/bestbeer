@@ -11,7 +11,7 @@ def url_to_beer_name(url):
 	parsed_url= url.split('/')
 	return parsed_url[-1].replace('-', ' ').title()
 
-#Finds the search term specified after the executable and stores it in search.
+#Finds the search term specified after the executable and stores it in the variablesearch.
 parser = argparse.ArgumentParser(description = "Process Search Term")
 parser.add_argument('searchTerm')
 args = parser.parse_args()
@@ -21,7 +21,7 @@ search = args.searchTerm
 search = search.replace(' ', '+')
 search = "http://beersmithrecipes.com/searchrecipe?uid=&term=" + search
 
-#Extracts the html from the url stored in search and stores it in html.
+#Extracts the html from the url stored in search and stores it in the variable html.
 html = urllib2.urlopen(search)
 
 #uses beautifulsoup to extract all the links from the html and stores them in links if they are a recipe url.
@@ -44,6 +44,7 @@ for link in links:
 	print str(iterator)+ ': ' + url_to_beer_name(link)	
 	iterator+=1
 
+#Loops until an appropriate response to the promt is given
 while(True):
 	response = input()
 	if isinstance(response, int) and response>=1 and response<=len(links):
