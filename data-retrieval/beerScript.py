@@ -35,7 +35,7 @@ for link in soup.find_all('a'):
 if len(links)==0:
 	print "No results,try again."
 	sys.exit()
-
+print 'Test'
 #Prompts the user to pick one of the beers that appeared from the search
 print 'Which beer recipe do you want to choose? Type in the appropriate number, from 1 to ' + str(len(links))
 iterator=1
