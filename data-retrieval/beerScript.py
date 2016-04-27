@@ -35,7 +35,7 @@ for link in soup.find_all('a'):
 if len(links)==0:
 	print "No results,try again."
 	sys.exit()
-print 'Test'
+
 #Prompts the user to pick one of the beers that appeared from the search
 print 'Which beer recipe do you want to choose? Type in the appropriate number, from 1 to ' + str(len(links))
 iterator=1
@@ -46,12 +46,19 @@ for link in links:
 
 #Loops until an appropriate response to the promt is given
 while(True):
-	response = input()
+	response = input("Enter Choice Here: ")
+
 	if isinstance(response, int) and response>=1 and response<=len(links):
 		search = links[response-1]
 		break
 	else:
 		print "Invalid response, try again."
+		iterator = 1
+		#for link in links:
+			#print str(iterator)+ ': ' + url_to_beer_name(link)	
+			#iterator+=1
+
+
 
 #Extracts the html of the chosen beer url are stores it into html.
 html = urllib2.urlopen(search)
